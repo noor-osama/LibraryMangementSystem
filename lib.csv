@@ -1,0 +1,6 @@
+﻿book_id,title,author,category,quantity,unit_price,total
+1,b1,a1,cc,3,10,30
+2,b2,a2,ff,5,20,100
+3,b3,a3,dd,4,30,120
+4,b4,a4,gg,7,40,280
+5,b5,a5,yy,8,15,120
